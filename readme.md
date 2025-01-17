@@ -1,4 +1,4 @@
 
-## Retreival images using wasserstein distance
+## Retrieval images using Wasserstein distance
 
-### run the notebook model on google colab for example, the data cannot be download with ssp cloud so use google colab
+- Run the notebook model on colab otherwise the data cannot be download
