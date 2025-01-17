@@ -1,5 +1,5 @@
 
-## Retrieval images using Wasserstein distance
+## Retrieval images using Wasserstein distance with COCO dataset
 
 - Run the notebook model on colab otherwise the data cannot be download
 ### Model Training
